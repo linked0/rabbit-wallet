@@ -8,7 +8,7 @@ const Ethereum = {
 const MarigoldTestnet = {
   hex: "12301",
   name: "Marigold",
-  rpcUrl: "",
+  rpcUrl: "http://localhost:8545",
   ticker: "ETH",
 };
 
